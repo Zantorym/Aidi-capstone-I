@@ -1,6 +1,10 @@
 # Aidi-capstone-I
 
-The final code is contained within the folder "Final code". The first code file, "01_Dataset_Pickling.ipynb", shows how we pickled our dataset. The second coded file, "02_Similarity_MAP.ipynb", shows how we pre-processed and processed our dataset. It also shows our implementation of similarity metrics to find the most relevant documents and has the code for generating MAP scores for the solution based on the test set.
+The final code is contained within the folder "Final code". 
+
+The first code file, "01_Dataset_Pickling.ipynb", shows how we pickled our dataset. 
+
+The second code file, "02_Similarity_MAP.ipynb", shows how we pre-processed and processed our dataset. It also shows our implementation of similarity metrics to find the most relevant documents and has the code for generating MAP scores for the solution based on the test set.
 
 To run "01_Dataset_Pickling.ipynb", you will need the following files:
 
