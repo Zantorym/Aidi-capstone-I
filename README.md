@@ -10,7 +10,7 @@ To run "01_Dataset_Pickling.ipynb", you will need the following files:
 
 "jd.list" - https://drive.google.com/file/d/1y2nZ80VT2AVodf9GaahOsXSwmFqtw96l/view?usp=sharing
 
-"resume.list" = https://drive.google.com/file/d/1GT_XyXksuqLbnRmjH-IZYB9Mmc8nOXE2/view?usp=sharing
+"resume.list" - https://drive.google.com/file/d/1GT_XyXksuqLbnRmjH-IZYB9Mmc8nOXE2/view?usp=sharing
 
 Before running "01_Dataset_Pickling.ipynb", ensure that "JD_FILES_PATH" and "RESUME_FILES_PATH" are updated to reflect their directory in your system. Also, ensure that "JD_FILES_PICKLE_OUTPATH" and "RESUME_FILES_PICKLE_OUTPATH" are in satisfactory directories.
 
