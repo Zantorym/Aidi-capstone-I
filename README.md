@@ -23,7 +23,7 @@ To run "02_Similarity_MAP.ipynb", you will use the pickled files obtained from t
 Before running "02_Similarity_MAP.ipynb", ensure that "JD_FILES_PICKLE_OUTPATH" and "RESUME_FILES_PICKLE_OUTPATH" point to either the pickle files obtained from running the first code, or the pickle files downloaded through the drive links.
 
 ---
-**Group Number:** 2
+**Group Number:** 1
 
 **Group Members:**
 
